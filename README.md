@@ -1,5 +1,5 @@
 
 ## What is it?
 
-** (Descripton here)
+** (Description here)
 
