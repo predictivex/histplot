@@ -1,0 +1,10 @@
+Package: histplot
+Type: Package
+Title: Histogram Plot Package
+Version: 0.1.0
+Author: predictivex <predictivex545454@gmail.com>
+Maintainer: predictivex <predictivex545454@gmail.com>
+Description: A package to plot a histogram of a normal distribution.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
